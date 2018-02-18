@@ -2,6 +2,15 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String args[]) {
+        
+        /*
+        ///////////////////////////////////////////////
+        // THIS IS A NEW COMMENT TO DEMONSTRATE MY   //
+        // ABILITY TO COMMIT AND PUSH TO A REMOTE    //
+        // REPO                                      //
+        ///////////////////////////////////////////////
+         */
+
         Scanner scnr = new Scanner(System.in);  //  First get the number to convert
         String hexNum;
         int c,                                  //  To act as counter for loop
